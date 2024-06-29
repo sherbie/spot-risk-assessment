@@ -1,2 +1,6 @@
 black==24.4.2
 pre-commit==3.7.1
+entsoe-py==0.6.8
+python-dotenv==1.0.1
+matplotlib==3.9.0
+ipykernel==6.29.4
